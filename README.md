@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Vehicle Clustering and Dimensionality Reduction</title>
-</head>
 <body>
   <h1>Vehicle Clustering and Dimensionality Reduction</h1>
   <h2>1st Subtask Objectives:</h2>
@@ -69,9 +64,8 @@
   </p>
   <footer>
     <p>
-      &copy; 2023 Your Name. All rights reserved.
+      &copy; 2023 Pasindu Geevinda. All rights reserved.
     </p>
   </footer>
 </body>
-</html>
 
